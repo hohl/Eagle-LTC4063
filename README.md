@@ -1,4 +1,9 @@
-Eagle-LTC4063
-=============
+Eagle library for LTC4063
+=========================
 
-Eagle library for the LTC4063 Li-Ion Charger by Linear Technology
+> Standalone Linear Li-Ion Charger with Micropower Low Dropout Linear Regulator
+
+Eagle (v6.3) library for the LTC4063 Li-Ion Charger by Linear Technology. 
+
+- Datasheet: http://cds.linear.com/docs/en/datasheet/4063fc.pdf
+- Product Page: http://www.linear.com/product/LTC4063
